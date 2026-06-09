@@ -1,0 +1,13 @@
+{
+  "me": {
+    "name": "Claude Code",
+    "id": "122097132489330885"
+  },
+  "permissions_granted": [
+    "ads_read",
+    "business_management",
+    "public_profile"
+  ],
+  "expires_at": 0,
+  "type": "SYSTEM_USER"
+}

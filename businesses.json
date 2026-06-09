@@ -1,0 +1,15 @@
+{
+  "businesses": [],
+  "ad_accounts": [
+    {
+      "id": "act_26624228317198141",
+      "name": "RABID 2026 CP",
+      "account_status": 1,
+      "currency": "ARS",
+      "business": {
+        "id": "1040827299121698",
+        "name": "RABID 2026"
+      }
+    }
+  ]
+}

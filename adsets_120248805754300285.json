@@ -1,0 +1,299 @@
+{
+  "campaign_id": "120248805754300285",
+  "campaign": {
+    "id": "120248805754300285",
+    "name": "Campaña de Ventas",
+    "objective": "OUTCOME_SALES",
+    "daily_budget": "1000000"
+  },
+  "is_cbo": true,
+  "date_preset": "last_7d",
+  "adsets": [
+    {
+      "id": "120248805754310285",
+      "name": "Conjunto de anuncios de Ventas (A POR TODO)",
+      "status": "ACTIVE",
+      "effective_status": "ACTIVE",
+      "budget_remaining": "0",
+      "optimization_goal": "OFFSITE_CONVERSIONS",
+      "destination_type": "UNDEFINED",
+      "insights": {
+        "impressions": "23879",
+        "reach": "14508",
+        "frequency": "1.645919",
+        "spend": "72840.23",
+        "cpm": "3050.388626",
+        "unique_clicks": "508",
+        "unique_ctr": "3.501516",
+        "cost_per_unique_click": "143.38628",
+        "outbound_clicks": [
+          {
+            "action_type": "outbound_click",
+            "value": "249"
+          }
+        ],
+        "outbound_clicks_ctr": [
+          {
+            "action_type": "outbound_click",
+            "value": "1.042757"
+          }
+        ],
+        "cost_per_outbound_click": [
+          {
+            "action_type": "outbound_click",
+            "value": "292.531044"
+          }
+        ],
+        "actions": [
+          {
+            "action_type": "onsite_conversion.messaging_block",
+            "value": "2"
+          },
+          {
+            "action_type": "omni_search",
+            "value": "1"
+          },
+          {
+            "action_type": "link_click",
+            "value": "249"
+          },
+          {
+            "action_type": "offsite_search_add_meta_leads",
+            "value": "1"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_search",
+            "value": "1"
+          },
+          {
+            "action_type": "add_to_cart",
+            "value": "6"
+          },
+          {
+            "action_type": "page_engagement",
+            "value": "4263"
+          },
+          {
+            "action_type": "landing_page_view",
+            "value": "239"
+          },
+          {
+            "action_type": "omni_landing_page_view",
+            "value": "239"
+          },
+          {
+            "action_type": "onsite_conversion.total_messaging_connection",
+            "value": "1"
+          },
+          {
+            "action_type": "onsite_conversion.post_unlike",
+            "value": "9"
+          },
+          {
+            "action_type": "post_engagement",
+            "value": "4263"
+          },
+          {
+            "action_type": "post_interaction_gross",
+            "value": "51"
+          },
+          {
+            "action_type": "onsite_web_view_content",
+            "value": "352"
+          },
+          {
+            "action_type": "onsite_web_add_to_cart",
+            "value": "6"
+          },
+          {
+            "action_type": "post_interaction_net",
+            "value": "61"
+          },
+          {
+            "action_type": "onsite_web_app_view_content",
+            "value": "352"
+          },
+          {
+            "action_type": "post",
+            "value": "9"
+          },
+          {
+            "action_type": "onsite_conversion.post_unsave",
+            "value": "1"
+          },
+          {
+            "action_type": "view_content",
+            "value": "352"
+          },
+          {
+            "action_type": "onsite_conversion.post_save",
+            "value": "7"
+          },
+          {
+            "action_type": "onsite_web_app_add_to_cart",
+            "value": "6"
+          },
+          {
+            "action_type": "onsite_conversion.post_net_save",
+            "value": "6"
+          },
+          {
+            "action_type": "onsite_conversion.post_net_like",
+            "value": "26"
+          },
+          {
+            "action_type": "omni_add_to_cart",
+            "value": "6"
+          },
+          {
+            "action_type": "offsite_content_view_add_meta_leads",
+            "value": "352"
+          },
+          {
+            "action_type": "search",
+            "value": "1"
+          },
+          {
+            "action_type": "video_view",
+            "value": "3963"
+          },
+          {
+            "action_type": "omni_view_content",
+            "value": "352"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_view_content",
+            "value": "352"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+            "value": "6"
+          },
+          {
+            "action_type": "post_reaction",
+            "value": "35"
+          }
+        ],
+        "action_values": [
+          {
+            "action_type": "onsite_web_app_add_to_cart",
+            "value": "362500"
+          },
+          {
+            "action_type": "onsite_web_add_to_cart",
+            "value": "362500"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_view_content",
+            "value": "15946540"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+            "value": "362500"
+          },
+          {
+            "action_type": "omni_view_content",
+            "value": "15946540"
+          },
+          {
+            "action_type": "add_to_cart",
+            "value": "362500"
+          },
+          {
+            "action_type": "view_content",
+            "value": "15946540"
+          },
+          {
+            "action_type": "onsite_web_view_content",
+            "value": "15946540"
+          },
+          {
+            "action_type": "onsite_web_app_view_content",
+            "value": "15946540"
+          },
+          {
+            "action_type": "omni_add_to_cart",
+            "value": "362500"
+          }
+        ],
+        "cost_per_action_type": [
+          {
+            "action_type": "omni_search",
+            "value": "72840.23"
+          },
+          {
+            "action_type": "offsite_search_add_meta_leads",
+            "value": "72840.23"
+          },
+          {
+            "action_type": "omni_view_content",
+            "value": "206.932472"
+          },
+          {
+            "action_type": "video_view",
+            "value": "18.380073"
+          },
+          {
+            "action_type": "search",
+            "value": "72840.23"
+          },
+          {
+            "action_type": "link_click",
+            "value": "292.531044"
+          },
+          {
+            "action_type": "post_interaction_gross",
+            "value": "1428.239804"
+          },
+          {
+            "action_type": "onsite_conversion.total_messaging_connection",
+            "value": "72840.23"
+          },
+          {
+            "action_type": "post_engagement",
+            "value": "17.086613"
+          },
+          {
+            "action_type": "view_content",
+            "value": "206.932472"
+          },
+          {
+            "action_type": "offsite_content_view_add_meta_leads",
+            "value": "206.932472"
+          },
+          {
+            "action_type": "add_to_cart",
+            "value": "12140.038333"
+          },
+          {
+            "action_type": "landing_page_view",
+            "value": "304.770837"
+          },
+          {
+            "action_type": "page_engagement",
+            "value": "17.086613"
+          },
+          {
+            "action_type": "omni_landing_page_view",
+            "value": "304.770837"
+          },
+          {
+            "action_type": "omni_add_to_cart",
+            "value": "12140.038333"
+          }
+        ],
+        "video_avg_time_watched_actions": [
+          {
+            "action_type": "video_view",
+            "value": "2"
+          }
+        ],
+        "quality_ranking": "UNKNOWN",
+        "engagement_rate_ranking": "UNKNOWN",
+        "conversion_rate_ranking": "UNKNOWN",
+        "date_start": "2026-05-20",
+        "date_stop": "2026-05-26"
+      }
+    }
+  ]
+}

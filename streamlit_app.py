@@ -1,4 +1,11 @@
+import sys
+from pathlib import Path
+
 import streamlit as st
+
+ROOT_DIR = Path(__file__).resolve().parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 from investsim.core import INVESTMENT_PROFILES, INSTRUMENT_ORDER, calculate_final_results, generate_simulation
 

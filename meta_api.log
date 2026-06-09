@@ -1,0 +1,8 @@
+2026-05-19T21:00:00Z | verify_token.py | acct=- | exit=0 | error=none | summary=SYSTEM_USER, scopes: ads_read+business_management+public_profile, sin expiración
+2026-05-19T21:00:03Z | fetch_businesses.py | acct=- | exit=0 | error=none | summary=1 cuenta encontrada: act_26624228317198141 (RABID 2026 CP)
+2026-05-19T21:00:06Z | fetch_campaigns.py | acct=act_26624228317198141 | exit=0 | error=none | summary=3 campañas encontradas
+2026-05-19T21:00:09Z | fetch_insights.py | acct=act_26624228317198141 | exit=0 | error=none | summary=Campaña de Ventas, last_7d, spend=15878.73 ARS, 0 compras
+2026-05-24T00:00:00Z | verify_token.py | acct=- | exit=0 | error=none | summary=SYSTEM_USER, scopes: ads_read+business_management+public_profile, sin expiración
+2026-05-24T13:13:00Z | fetch_insights.py | acct=act_26624228317198141 | exit=0 | error=none | summary=Campaña de Ventas, last_7d, spend=63880.90 ARS, 2 compras, ROAS=0.85x
+2026-05-24T13:14:00Z | fetch_adsets.py | acct=act_26624228317198141 | exit=0 | error=none | summary=1 conjunto activo: Conjunto de anuncios de Ventas (A POR AUTO), CBO
+2026-05-24T13:17:00Z | fetch_ads.py | acct=act_26624228317198141 | exit=0 | error=none | summary=3 anuncios activos, spend total=72840.23 ARS, Ad2 72% del presupuesto
